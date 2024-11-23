@@ -1,0 +1,6 @@
+@deflix.monolithic.api_HostAddress = http://localhost:5292
+
+GET {{deflix.monolithic.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

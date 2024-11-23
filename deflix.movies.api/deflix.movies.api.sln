@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deflix.movies.api", "deflix.movies.api\deflix.movies.api.csproj", "{12B4F12B-7725-4160-B48C-9CA564DACF24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B4F12B-7725-4160-B48C-9CA564DACF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B4F12B-7725-4160-B48C-9CA564DACF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B4F12B-7725-4160-B48C-9CA564DACF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B4F12B-7725-4160-B48C-9CA564DACF24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB1105F-74A8-43D6-B486-F9A7F121A394}
+	EndGlobalSection
+EndGlobal
